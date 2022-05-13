@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 
-(I change the port to 3001 in the "start" script of package.json file)
+(PORT changed to 3001 in the "start" script of package.json file)
 Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
 
 The page will reload when you make changes.\
